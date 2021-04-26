@@ -1,0 +1,10 @@
+﻿@*@model IEnumerable<HavuzProjesi.Models.Kategori>
+@using HavuzProjesi.Helper;
+<ul class="cat">
+    @foreach (var item in Model)
+    {
+        <li><i class="icon-angle-right"></i><a href="YuzmeAdi/@SeoHelper.ToSeoUrl(item.KategoriAd).ToLower()/@item.KategoriId">@item.KategoriAd</a><span> (@item.Yuzmes.Count())</span></li>
+    }
+
+
+</ul>*@

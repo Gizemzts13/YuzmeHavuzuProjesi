@@ -1,0 +1,124 @@
+﻿@model IEnumerable<HavuzProjesi.Models.Branslar>
+@{
+                
+
+                ViewBag.Title = "Branslar";
+                Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+
+                <div class="row">
+                    <section id="projects">
+                        <ul id="thumbs" class="portfolio">
+                            <!-- Item Project and Filter Name -->
+
+
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Fitness" href="~/Content/SiteLayout/img/brans2.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/brans2.jpg" alt="Fitness, fiziksel uygunluk anlamına gelen, günlük hayatta daha çok zindelik ve fiziksel uygunluk için yapılan egzersizlerin bütünü için kullanılan terimdir. Fitness ile vücut geliştirme farklı kavramlardır.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Atletizm" href="~/Content/SiteLayout/img/brans1.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/brans1.jpg" alt="Belli bir pistte veya alanda değişik branşlar üzerinden gerçekleştirilen dünyanın en eski spor dalına atletizm denmektedir. Bu sporu gerçekleştiren kişilere ise atlet denir. Genel kategori olarak koşu, yürüyüş, atlama ile atma branşları üzerinden sporcular kabiliyetlerini gösterir">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Güreş" href="~/Content/SiteLayout/img/güreş.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/güreş.jpg" alt="Güreş, iki kişinin belirlenen kurallar çevresinde ve güç kullanarak birbirine galip gelmeye çalıştığı bir spordur. Taraflardan birinin rakibinin sırtını yere getirmesiyle müsabaka sonlanmaktadır. Dünyaca kabul edilen iki farklı güreş stili bulunmaktadır.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Boks" href="~/Content/SiteLayout/img/boks.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/boks.jpg" alt="Boks karşılaşmaları ringlerde yapılmaktadır. Ring, üç veya dört sıra halatla çevrili ve yerden yüksekliği en az 91 cm en fazla 122 cm olan kare biçiminde bir alandır.Profesyonel boksta ringin büyüklüğü 5–6 m², amatör boksta ise en az 3–6 m²'dir.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Halter" href="~/Content/SiteLayout/img/halter.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/halter.jpg" alt="Halter, iki tarafında ağırlıklar olan bir demir çubuğun koparma ve silkme hareketleri ile havaya kaldırılıp başının üstünde dirseklerini kırmadan tutarak yapılan bir spor dalıdır. Halter sporu müsabakaları koparma ve silkme olarak iki hareketten oluşur.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Okçuluk" href="~/Content/SiteLayout/img/okçuluk.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/okçuluk.jpg" alt="Okçuluk ,kökeni insanoğlunun avcılık günlerine dayanan, oku bir yay aracılığıyla hedefe göndermeyi amaçlayan spor dalıdır. Okçuluk ilk kez 1904 Yaz Olimpiyatları'nda olimpik programa alınmış, 1972'den beri aralıksız olarak programlarda yer almaktadır.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Geleneksel Türk Okçuluğu" href="~/Content/SiteLayout/img/gelenekselokçuluk.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/gelenekselokçuluk.jpg" alt="Türkler adına hem milli hem de manevi olarak büyük öneme sahip olan okçuluk, Anadolu toprakları için tarihi oldukça eskilere dayanır. Hatta atlı Türk okçuluğu Anadolu topraklarından önce orta Anadolu'ya kadar ulaşır. Özellikle eski dönemlerde Türklerde atlı okçuluk çocuktan itibaren başlamaktaydı. Çeşitli anlamlar yüklenen ve hükümdarlığın simgesi haline gelen atlı okçuluk, Türklerin kurduğu her devletin en önemli unsurları arasında yer almaktaydı.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Masa Tenisi" href="~/Content/SiteLayout/img/masatenisi.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/masatenisi.jpg" alt="Masanın orta kısmında bir ağ bulunan, iki veya dört kişi ile oynanan, belirli kuralları olan bir spordur. Tenis sporu ile benzer kurallara sahiptir. Ülkemizde 1920 yılında oynanmaya başlanan ve giderek sevilen bu oyun ilk olarak 1880 yılında oynanmaya başlanmıştır. Geçmiş yıllarda en çok İngilizler bu oyunu oynamıştır.">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="İzcilik" href="~/Content/SiteLayout/img/izcilik1.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/izcilik1.jpg" alt="İzcilik doğa ile iç içe ve onu koruyup geliştirerek çocuk ve gençleri ruhsal, bedensel, zihinsel ve ahlaki açıdan geliştirmeyi amaçlayan bir eğitim programıdır. İzcilik, doğayı koruyup geliştirme ve kişilerin kendi imkan ve becerileriyle doğada hayatta kalmalarını sağlamayı amaçlar">
+                            </li>
+                            <li class="item-thumbs col-lg-3 design" data-id="id-0" data-type="web">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Kayak" href="~/Content/SiteLayout/img/kayak.jpg">
+                                    <span class="overlay-img"></span>
+                                    <span class="overlay-img-thumb font-icon-plus"></span>
+                                </a>
+                                <!-- Thumb Image and Description -->
+                                <img src="~/Content/SiteLayout/img/kayak.jpg" alt="Kayak sporu, tarihçesine bakıldığı takdirde 5000 yıl öncesine dayanan bir spordur. İlk kez 1866 yılında, Cristina'da kayak sporu yarışmaları düzenlenmiş ve yapılan bu yarışlara halk tarafından beklenilmeyen bir ilgi ve talep gösterilmiştir">
+                            </li>
+
+
+
+
+                            <!-- End Item Project -->
+
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+

@@ -1,0 +1,17 @@
+﻿@model HavuzProjesi.Models.YonetimKurulu
+@{
+    ViewBag.Title = "YonetimKurulu";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<div class="container">
+    <div class="col-md-12">
+        <h4><b>Yönetim Kurulumuz</b></h4>
+        <img src="" alt="" class="align-center img-box img-responsive" />
+        <p>
+            @Html.Raw(Model.Aciklama)
+        </p>
+    </div>
+</div>
+
+

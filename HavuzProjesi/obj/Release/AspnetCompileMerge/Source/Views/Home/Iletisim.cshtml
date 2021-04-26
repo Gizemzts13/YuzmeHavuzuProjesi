@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "iletisim";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+
+<section id="content">
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.2499237201514!2d29.081041814755!3d40.203503226504985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3e5ce676bbd5%3A0x23d12ae1d41a598a!2zQnVyc2EgR2Vuw6dsaWsgSGl6bWV0bGVyaSBWZSBTcG9yIMSwbCBNw7xkw7xybMO8xJ_DvCBPbGltcGlrIEthcGFsxLEgWcO8em1lIEhhdnV6dQ!5e0!3m2!1str!2str!4v1599429955830!5m2!1str!2str" width="1440" height="480" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+        <p align="center">
+            <b><font size="5" color="black">    <br />  <br />  <br />ADRES </font></b>
+        </p>
+        <p align="center"><b><font size="4">  Veysel Karani Mahallesi Zafer Bulvarı No:19 Atıcılar Kapalı Olimpik Yüzme Havuzu OSMANGAZİ/BURSA</font></b></p>
+        <p align="center">
+            <b><font size="5" color="black"> <br />İLETİŞİM</font></b>
+        </p>
+        <p align="center"><b><font size="4">Tel : 05424650612 </font></b></p>
+        <p align="center"><b><font size="4">E-mail : uludagolimpik@gmail.com </font></b></p>
+
+
+
+        @*<div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h4><strong>İletişim</strong></h4>
+                    @if (ViewBag.Uyari == "Mesajınız başarı ile gönderilmiştir.")
+                    {
+                        <div class="alert alert-info">@ViewBag.Uyari</div>
+                    }
+
+                    <form action="/Home/Iletisim/" method="post" role="form" class="contactForm">
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group">
+                            <input type="text" name="adsoyad" class="form-control" id="name" placeholder="İsminiz" data-rule="minlen:4" data-msg="Lütfen en az 4 karekter giriniz" />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Mail Adresiniz" data-rule="email" required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="konu" id="subject" placeholder="Konu" data-rule="minlen:4" required />
+                            <div class="validation"></div>
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" name="mesaj" rows="5" data-rule="required" required placeholder="Mesajınız"></textarea>
+                            <div class="validation"></div>
+                        </div>
+
+                        <div class="text-center"><button type="submit" class="btn btn-theme">Gönder</button></div>
+
+
+                    </form>
+                </div>
+            </div>*@
+    </div>
+</section>
+

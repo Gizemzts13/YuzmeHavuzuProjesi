@@ -1,0 +1,144 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using HavuzProjesi.Helper;
+
+
+@model IPagedList<HavuzProjesi.Models.Yuzme>
+@{
+    ViewBag.Title = "Yüzme";
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+@*<section id="inner-headline">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="breadcrumb">
+                        <li><a href="#"><i class="fa fa-home"></i></a><i class="icon-angle-right"></i></li>
+                        <li class="active">Yüzme</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>*@
+<section id="content">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+
+
+                <article>
+                    <div class="post-image">
+                        <div class="post-heading">
+                            <h3><a href="/Home/Yuzme">YÜZME EĞİTİMİ HAKKINDA(BAYAN)</a></h3>
+                        </div>
+                        <img src="~/Content/SiteLayout/img/yüzmekadın.jpg" alt="Yüzme Eğitimi Hakkında" />
+                    </div>
+                    <p>
+
+                    </p>
+                    <div class="bottom-article">
+                        <ul class="meta-post">
+
+
+                            @*<li><i class=""></i><a href="#"> BAYAN </a></li>*@
+                            @*<li><i class="icon-comments"></i><a href="#">4 Comments</a></li>*@
+                        </ul>
+                        <a href=/Home/Yuzme><font size="3" color="black">Salı ve Perşembe akşamları saat 20:30 - 21:30 arası sadece kadınlara özel olimpik(50 metre uzunluk, 3.5 metre derinlik), yarı olimpik(25 metre uzunluk, 1.8 metre derinlik) ve eğitim havuzumuzda serbest yüzme, grup eğitimi ve özel eğitim sunmaktayız.</font></a>
+                    </div>
+                </article>
+                <article>
+                    <div class="post-image">
+                        <div class="post-heading">
+                            <h3><a href="/Home/Yuzme">YÜZME EĞİTİMİ HAKKINDA(BAY)</a></h3>
+                        </div>
+                        <img src="~/Content/SiteLayout/img/yüzmeerkek.jpg" alt="Yüzme Eğitimi Hakkında" />
+                    </div>
+                    <p>
+
+                    </p>
+                    <div class="bottom-article">
+                        <ul class="meta-post">
+
+
+                            @*<li><i class=""></i><a href="#"> BAYAN </a></li>*@
+                            @*<li><i class="icon-comments"></i><a href="#">4 Comments</a></li>*@
+                        </ul>
+                        <a href=/Home/Yuzme><font size="3" color="black">Pazartesi, Çarşamba ve Cuma akşamları saat 20:30 - 21:30 arası sadece erkeklere özel olimpik(50 metre uzunluk, 3.5 metre derinlik), yarı olimpik(25 metre uzunluk, 1.8 metre derinlik) ve eğitim havuzumuzda serbest yüzme, grup eğitimi ve özel eğitim sunmaktayız.</font></a>
+                    </div>
+                </article>
+                <article>
+                    <div class="post-image">
+                        <div class="post-heading">
+                            <h3><a href="/Home/Yuzme">YÜZME EĞİTİMİ HAKKINDA(ÇOCUK-YAZ DÖNEMİ)</a></h3>
+                        </div>
+                        <img src="~/Content/SiteLayout/img/yazcocuk.jpg" alt="Yüzme Eğitimi Hakkında" />
+                    </div>
+                    <p>
+
+                    </p>
+                    <div class="bottom-article">
+                        <ul class="meta-post">
+
+
+                            @*<li><i class=""></i><a href="#"> BAYAN </a></li>*@
+                            @*<li><i class="icon-comments"></i><a href="#">4 Comments</a></li>*@
+                        </ul>
+                        <a href=/Home/Yuzme><font size="3" color="black">Yaz dönemimizde yaz okullarıyla beraber hafta içi saat 10:00 - 18:00 arası çocuklara özel olimpik(50 metre uzunluk, 3.5 metre derinlik), yarı olimpik(25 metre uzunluk, 1.8 metre derinlik) ve eğitim havuzumuzda grup eğitimi ve özel eğitim sunmaktayız.</font></a>
+                    </div>
+                </article>
+                <article>
+                    <div class="post-image">
+                        <div class="post-heading">
+                            <h3><a href="/Home/Yuzme">YÜZME EĞİTİMİ HAKKINDA(ÇOCUK-KIŞ DÖNEMİ)</a></h3>
+                        </div>
+                        <img src="~/Content/SiteLayout/img/cocukkıs2.jpg" alt="Yüzme Eğitimi Hakkında" />
+                    </div>
+                    <p>
+
+                    </p>
+                    <div class="bottom-article">
+                        <ul class="meta-post">
+
+
+                            @*<li><i class=""></i><a href="#"> BAYAN </a></li>*@
+                            @*<li><i class="icon-comments"></i><a href="#">4 Comments</a></li>*@
+                        </ul>
+                        <a href=/Home/Yuzme><font size="3" color="black">Kış dönemimizde  hafta sonu saat 11:00 - 12:00 ve 14:00-15:00 arası çocuklara özel olimpik(50 metre uzunluk, 3.5 metre derinlik), yarı olimpik(25 metre uzunluk, 1.8 metre derinlik) ve eğitim havuzumuzda grup eğitimi ve özel eğitim sunmaktayız.</font></a>
+                    </div>
+                </article>
+
+
+
+                <div id="pagination">
+                    @Html.PagedListPager(Model, Sayfa => Url.Action("Yuzme", new { Sayfa }), PagedListRenderOptions.Classic)
+                </div>
+            </div>
+            @*<div class="col-lg-4">
+                <aside class="right-sidebar">
+                    <div class="widget">
+                        <form class="form-search">
+                            <input class="form-control" type="text" placeholder="Search..">
+                        </form>
+                    </div>*@
+
+            @*<div class="widget">
+                    <h5 class="widgetheading">Kategoriler</h5>
+                    @{
+                        Html.RenderAction("YuzmeKategoriPartial", "Home");
+                    }
+                </div>*@
+            @*<div class="widget">
+                    <h5 class="widgetheading">Yüzme İle İlgili</h5>
+                    <ul class="recent">
+                        @{
+                            Html.RenderAction("YuzmeKayitPartial", "Home");
+                        }
+                    </ul>
+                </div>*@
+
+            @*</aside>*@
+        </div>
+    </div>
+    </div>
+</section>
+

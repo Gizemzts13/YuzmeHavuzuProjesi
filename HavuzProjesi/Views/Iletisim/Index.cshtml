@@ -1,0 +1,53 @@
+﻿@model IEnumerable<HavuzProjesi.Models.Iletisim>
+
+@{
+    ViewBag.Title = "Iletişim";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Iletişim</h2>
+
+<p>
+    @Html.ActionLink("Yeni Oluştur", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Adres)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Telefon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Facebook)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Instagram)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Adres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Facebook)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instagram)
+            </td>
+            <td>
+                @Html.ActionLink("Güncelle", "Edit", new { id = item.IletisimId }) |
+                @Html.ActionLink("Detay", "Details", new { id = item.IletisimId }) |
+                @Html.ActionLink("Sil", "Delete", new { id = item.IletisimId })
+            </td>
+        </tr>
+    }
+
+</table>

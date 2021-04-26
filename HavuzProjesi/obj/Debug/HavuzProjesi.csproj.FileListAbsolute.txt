@@ -1,0 +1,591 @@
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\HavuzProjesi.dll.config
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\HavuzProjesi.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\HavuzProjesi.pdb
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\csc.exe
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\csc.exe.config
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\csc.rsp
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\csi.exe
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\csi.exe.config
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\csi.rsp
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.AppContext.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Console.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.Claims.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\vbc.exe
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\vbc.exe.config
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\vbc.rsp
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.Helpers.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.Mvc.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.Razor.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.WebPages.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.Helpers.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.Mvc.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.Razor.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.WebPages.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\tr\System.Web.Razor.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\EntityFramework.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\EntityFramework.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\PagedList.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\PagedList.Mvc.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\PagedList.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\PagedList.Mvc.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.Win32.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\netstandard.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.AppContext.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Collections.Concurrent.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Collections.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Collections.NonGeneric.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Collections.Specialized.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.ComponentModel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.ComponentModel.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Console.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Data.Common.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.Contracts.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.Debug.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.Process.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.StackTrace.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.Tools.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.TraceSource.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Diagnostics.Tracing.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Drawing.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Dynamic.Runtime.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Globalization.Calendars.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Globalization.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Globalization.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.Compression.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.Compression.ZipFile.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.FileSystem.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.IsolatedStorage.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.Pipes.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Linq.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Linq.Expressions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Linq.Parallel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Linq.Queryable.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.Http.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.NameResolution.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.NetworkInformation.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.Ping.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.Requests.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.Security.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.Sockets.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.WebHeaderCollection.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.WebSockets.Client.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Net.WebSockets.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.ObjectModel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Reflection.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Reflection.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Reflection.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Resources.Reader.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Resources.ResourceManager.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Resources.Writer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Handles.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.InteropServices.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Numerics.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Serialization.Json.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Claims.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Cryptography.Csp.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.Principal.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Security.SecureString.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Text.Encoding.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Text.Encoding.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Text.RegularExpressions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.Overlapped.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.Tasks.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.Thread.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.ThreadPool.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Threading.Timer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.ValueTuple.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Xml.ReaderWriter.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Xml.XDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Xml.XmlDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Xml.XmlSerializer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Xml.XPath.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\System.Xml.XPath.XDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\CryptoHelper.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\CryptoHelper.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.dll.config
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.pdb
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\netstandard.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.AppContext.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.Specialized.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Console.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Data.Common.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Compression.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Pipes.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Expressions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Parallel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Queryable.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Http.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.NameResolution.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Ping.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Requests.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Security.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Sockets.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebSockets.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ObjectModel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.Reader.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.Writer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Handles.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Claims.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Principal.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.SecureString.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.Encoding.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Tasks.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Thread.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Timer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XPath.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\CryptoHelper.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.Mvc.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Helpers.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Mvc.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Razor.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\CryptoHelper.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.Mvc.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Helpers.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Mvc.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Razor.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Helpers.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Mvc.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Razor.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csprojAssemblyReference.cache
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csproj.CoreCompileInputs.cache
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csproj.CopyComplete
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.dll
+C:\Users\hp pc\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.pdb
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.dll.config
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.pdb
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\netstandard.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.AppContext.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.Specialized.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Console.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Data.Common.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Compression.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Pipes.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Expressions.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Parallel.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Queryable.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Http.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.NameResolution.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Ping.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Requests.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Security.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Sockets.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebSockets.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ObjectModel.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.Reader.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.Writer.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Handles.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Claims.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Principal.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.SecureString.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.Encoding.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Tasks.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Thread.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Timer.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.ValueTuple.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XDocument.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XPath.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\CryptoHelper.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.Mvc.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Helpers.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Mvc.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Razor.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\CryptoHelper.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.Mvc.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Helpers.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Mvc.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Razor.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Helpers.resources.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Mvc.resources.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Razor.resources.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.resources.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csprojAssemblyReference.cache
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csproj.CopyComplete
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.dll
+C:\Users\gizem\Desktop\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.pdb
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.dll.config
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\HavuzProjesi.pdb
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\netstandard.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.AppContext.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.Concurrent.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Collections.Specialized.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Console.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Data.Common.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Process.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Drawing.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.Calendars.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Globalization.Extensions.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Compression.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.Pipes.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Expressions.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Parallel.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Linq.Queryable.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Http.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.NameResolution.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Ping.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Requests.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Security.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.Sockets.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Net.WebSockets.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.ObjectModel.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.Extensions.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Reflection.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.Reader.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Resources.Writer.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Extensions.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Handles.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Numerics.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Claims.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.Principal.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Security.SecureString.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.Encoding.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Overlapped.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Tasks.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Thread.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Threading.Timer.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.ValueTuple.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XDocument.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XPath.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\CryptoHelper.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.Mvc.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Helpers.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Mvc.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Razor.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\CryptoHelper.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\PagedList.Mvc.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Helpers.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Mvc.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.Razor.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Helpers.resources.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Mvc.resources.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.Razor.resources.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.resources.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\bin\Debug\tr\System.Web.WebPages.Razor.resources.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csprojAssemblyReference.cache
+C:\Projelerim\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csproj.CoreCompileInputs.cache
+C:\Projelerim\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.csproj.CopyComplete
+C:\Projelerim\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.dll
+C:\Projelerim\HavuzProjesi\HavuzProjesi\obj\Debug\HavuzProjesi.pdb

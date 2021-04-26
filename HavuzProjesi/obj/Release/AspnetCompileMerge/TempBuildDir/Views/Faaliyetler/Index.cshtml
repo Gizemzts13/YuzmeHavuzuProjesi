@@ -1,0 +1,35 @@
+﻿@model IEnumerable<HavuzProjesi.Models.Faaliyetler>
+
+@{
+    ViewBag.Title = "Faaliyetler";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Faaliyetler</h2>
+<a class="btn btn-default" href="/Faaliyetler/Create/">Yeni Ekle</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Başlık</th>
+            <th>Açıklama</th>
+            <th>Resim URL</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FaaliyetlerId</td>
+                <td>@item.Baslik</td>
+                <td>@Html.Raw(item.Aciklama)</td>
+                <td><img width="100" height="100" src="@item.ResimURL" /></td>
+                <td><a href="/Faaliyetler/Edit/@item.FaaliyetlerId">Düzenle</a> | <a href="/Faaliyetler/Delete/@item.FaaliyetlerId">Sil</a></td>
+            </tr>
+        }
+
+
+
+    </tbody>
+</table>

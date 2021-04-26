@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3a089058b27344fea6abf4585337c836" Name="Diagram1">
+        <EntityTypeShape EntityType="u9747828_havuzModel.Admin" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Branslar" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Duyurular" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Faaliyetler" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Fiyatlar" Width="1.5" PointX="6.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Hakkimizda" Width="1.5" PointX="6.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Iletisim" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Kategori" Width="2.125" PointX="0.5" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Kimlik" Width="2.25" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Slider" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.sysdiagrams" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.YonetimKurulu" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="u9747828_havuzModel.Yuzme" Width="1.75" PointX="3" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="u9747828_havuzModel.FK_Yuzme_Kategori" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
